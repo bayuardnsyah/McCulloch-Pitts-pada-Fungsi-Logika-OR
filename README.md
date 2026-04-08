@@ -1,0 +1,1 @@
+# McCulloch-Pitts-pada-Fungsi-Logika-OR
